@@ -12,5 +12,5 @@ python setup.py install
 
 Import "stow" using the command:
 
->>>from final/conversion import stow 
->>>stow.convert_sp_to_wr()
+from final/conversion import stow  <br />
+stow.convert_sp_to_wr()
